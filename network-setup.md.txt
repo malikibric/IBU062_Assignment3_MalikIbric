@@ -1,0 +1,14 @@
+-All the devices that appeared in the network-
+
+Router model ISR4331
+Switch0 model 2960-24TT
+Switch1 model 2960-24TT
+Laptop 210.3.14.6
+Server0 210.3.14.2
+PC1 210.3.14.4
+PC0 210.3.14.5
+Server1 168.90.0.3
+Server2 169.90.0.4
+PC3 169.90.0.5
+PC4 169.90.0.2
+PC2 210.3.14.2
